@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabLayoutTest</string>
+    <string name="hello_blank_fragment">碎片</string>
+</resources>
